@@ -28,8 +28,15 @@ python3 Wrapper.py --path **path_to_dataset_folder**
 <img src="Code/Results/lidar_semantics.gif"  align="center" alt="Undistorted" width="500"/>
 
 
+#### 2. From Dopplers ICP.
 
-#### 2. Semantically Segmented Point Cloud
+
+
+https://github.com/cskate1997/Semantic3DLiDAR/assets/94412831/71228a40-d1d9-4fb6-b1cd-e115b91f6bb6
+
+
+
+#### 3. Semantically Segmented Point Cloud
 
 <img src="Code/Results/pointcloud.gif"  align="center" alt="Undistorted" width="500"/>
 
