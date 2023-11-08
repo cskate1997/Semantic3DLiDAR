@@ -30,10 +30,7 @@ python3 Wrapper.py --path **path_to_dataset_folder**
 
 #### 2. From Dopplers ICP.
 
-
-
 https://github.com/cskate1997/Semantic3DLiDAR/assets/94412831/71228a40-d1d9-4fb6-b1cd-e115b91f6bb6
-
 
 
 #### 3. Semantically Segmented Point Cloud
